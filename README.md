@@ -30,4 +30,4 @@ Inside Server/data/encryption_keys, add these files:
   
 These files are the RSA encryption keys for the server (rsa keys should be generated with 1024 bit length for private key)
 
-OR copy the keys generated in the 'privkey.pem' and 'pubkey.pem' files.
+OR copy the keys generated in the `privkey.pem` and `pubkey.pem` files.
