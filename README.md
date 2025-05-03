@@ -8,6 +8,15 @@ This setup demonstrates basic principles of network communication, public-privat
 - Download the folders.
 - Run the install 'dependencies.bat' file to download the necessary libraries.
 
+OR
+```bat
+pip install customtkinter
+pip install CTkMessagebox
+pip install Pillow
+pip install cryptography
+pip install rsa
+pause
+
 Create these folders:
 * Client/downloads/
 * Server/data/encryption_keys/
