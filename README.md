@@ -6,7 +6,7 @@ This setup demonstrates basic principles of network communication, public-privat
 ## Installation
 
 - Download the folders.
-- Run the install `install_dependencies.bat` file to download the necessary libraries.
+- Run the `install_dependencies.bat` file to download the necessary libraries.
 
 **OR run these commands manually:**
 
