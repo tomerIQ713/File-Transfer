@@ -20,11 +20,12 @@ pip install rsa
 
 For this project to work, create these folders:
 
-Client/downloads/
-Server/data/encryption_keys/
-Server/data/files/
-Inside Server/data/encryption_keys, add these files:
+* Client/downloads/
+* Server/data/encryption_keys/
+* Server/data/files/
 
-privatekey.pem
-publickey.pem
+Inside Server/data/encryption_keys, add these files:
+* privatekey.pem
+* publickey.pem
+  
 These files are the RSA encryption keys for the server (rsa keys should be generated with 1024 bit length for private key)
