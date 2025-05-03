@@ -1,1 +1,19 @@
-# File-Transfer
+<h1>File Transfer Project</h1>
+
+## 
+A secure client-server file transfer system built in Python. The project allows encrypted file uploads and downloads between a client and server using RSA encryption for secure transmission. 
+This setup demonstrates basic principles of network communication, public-private key cryptography, and secure file handling.
+
+## Installation
+- Download the folders.
+
+Create these folders:
+* Client/downloads/
+* Server/data/encryption_keys/
+* Server/data/files/
+
+Inside Server/data/encryption_keys, add these files:
+* privatekey.pem
+* publickey.pem
+  
+These files are the RSA encryption keys for the server (rsa keys should be generated with 1024 bit length for private key)
