@@ -16,9 +16,8 @@ pip install CTkMessagebox
 pip install Pillow
 pip install cryptography
 pip install rsa
-pause
+```
 
-### 🔍 Breakdown:
 For this project to work, create these folders:
 
 Client/downloads/
